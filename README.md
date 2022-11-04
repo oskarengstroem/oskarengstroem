@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oskarengstroem
+👋 Hi, I’m @oskarengstroem
 
 I'm a product designer and frontend developer currently working at Anyfin in Stockholm, Sweden.
 
